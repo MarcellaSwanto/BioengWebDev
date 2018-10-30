@@ -12,3 +12,7 @@ body {
   /* sizes clockwise starting by TOP */
   padding : 15px 32px 10px 12px;
 }
+
+#header {
+  color : blue;
+}
